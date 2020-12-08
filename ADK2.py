@@ -1,6 +1,6 @@
 # Attacker Dead Killer 
 # Protokol DDoS adalah tipe serangan paling masif
-# Youtube Link : https://www.youtube.com/watch?v=Sn3sc3J6pAI
+# Youtube Link : https://www.youtube.com/channel/UCt9-cT9A6TkAcIuLRVZ9XeQ
 # Author : Mr.Cekuy
 # ------------------------------------------------------------------------------------------
 import urllib2
