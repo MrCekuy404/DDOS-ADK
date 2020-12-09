@@ -17,5 +17,5 @@ simpan didesktop
 -namascript.py url
 
 # run linux
--python namascript.py
--python namascript.py url
+-python2 namascript.py
+-python2 namascript.py url
