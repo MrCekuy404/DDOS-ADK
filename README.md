@@ -12,10 +12,10 @@ USAGE :
 
 # run windows(cmd)
 simpan didesktop
--cd desktop
--namascript.py
--namascript.py url
+- cd desktop
+- namascript.py
+- namascript.py url
 
 # run linux
--python2 namascript.py
--python2 namascript.py url
+- python2 namascript.py
+- python2 namascript.py url
